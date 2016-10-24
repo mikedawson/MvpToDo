@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module rename-to="com.ustadmobile.mvptodo.MvpToDo">
+
+    <inherits name='com.google.gwt.user.User'/>
+    <source path="core/model"/>
+    <source path="core/impl"/>
+    <source path="core/presenter"/>
+    <source path="core/view"/>
+
+</module>
